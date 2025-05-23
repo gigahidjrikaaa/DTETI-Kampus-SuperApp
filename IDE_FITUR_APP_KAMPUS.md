@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Auto Scheduling
+* **Deskripsi Singkat:** Fitur ini memungkinkan pengguna untuk secara otomatis terhubung dengan setiap acara di SuperApp misalnya perkuliahan sebagai reminder, termasuk acara non formal seperti kerja kelompok.
+* **Target Pengguna Utama:** Seluruh Mahasiswa DTETI FT UGM serta Dosen dan Tenaga Didik
+* **Value Proposition:** Untuk meningkatkan kemudahan informasi serta akuntabilitas jadwal yang berhubungan dengan akademik.
+* **Diajukan oleh:** 505064
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
