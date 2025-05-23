@@ -24,26 +24,8 @@ Format & Contoh Pengajuan Ide Fitur:
 Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda merasa fitur tersebut tidak cocok dengan kategori yang ada, silakan tambahkan di bagian "Ide Inovatif Lainnya". Lakukan penulisan markdown dengan baik, menghindari violation pada format markdown.
 
 ### A. Akademik & Pembelajaran 📚
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### D. Administrasi & Layanan Pendukung ⚙️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### E. Ide Inovatif Lainnya ✨
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Smart Study Scheduler
+* **Deskripsi Singkat:** Fitur ini membantu mahasiswa menjadwalkan waktu belajar secara otomatis berdasarkan jadwal kuliah, deadline tugas, dan preferensi waktu produktif mereka.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Membantu mahasiswa mengelola waktu belajar secara efisien dan meningkatkan hasil akademik.
+* **Diajukan oleh:** 503275
