@@ -30,7 +30,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** AR Indoor Navigation
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk melakukan navigasi ke ruangan - ruangan yang ada di DTETI
+* **Target Pengguna Utama:** Mahasiswa DTETI
+* **Value Proposition:** Memudahkan mahasiswa untuk mencari ruangan tertentu di DTETI serta mengakses berbagai informasi pada ruangan tersebut
+* **Diajukan oleh:** 477810
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
