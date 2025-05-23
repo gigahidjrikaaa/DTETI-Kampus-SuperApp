@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+Nama Fitur: Layanan Turnitin Satu Pintu
+Deskripsi Singkat: Fitur ini memberikan fasilitas bagi mahasiswa dan dosen untuk memeriksa keaslian dan tingkat kesamaan karya tulis akademik dengan database jurnal dan publikasi yang luas melalui turnitin (integrasi turnitin).
+Target Pengguna Utama: Seluruh Mahasiswa DTETI, Dosen, Staf Akademik
+Value Proposition: Memastikan integritas akademik, mengurangi plagiarisme, dan membantu mahasiswa meningkatkan kualitas tulisannya sesuai dengan ETHOS DTETI.
+Diajukan oleh: 492727 - Rama Sulaiman Nurcahyo
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
