@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Notifikasi Jadwal Kelas Pintar
+* **Deskripsi Singkat:** Fitur yang secara otomatis mengingatkan mahasiswa tentang jadwal kelas mereka melalui notifikasi yang disesuaikan dengan preferensi pengguna.
+* **Target Pengguna Utama:** Mahasiswa DTETI 
+* **Value Proposition:** MMembantu mahasiswa tetap terorganisir dan menghindari keterlambatan masuk kelas.
+* **Diajukan oleh:** 496418
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
