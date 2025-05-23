@@ -26,6 +26,12 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
 
+* **Nama Fitur:** Proyek Aplikasi E-Course Gama Ringan untuk Semua Daerah
+* **Deskripsi Singkat:** Aplikasi ini memungkinkan akses materi modul secara cepat dah hemat kuota
+* **Target Pengguna Utama:** Semua pelajar SMA - Tingkat Sarjanan yang ingin mengakses materi UGM secara online
+* **Value Proposition:** Aplikasi dibuat seringan mungkin dengan tampilan sederhana dan kompresi video materi sehingga modul dapat diakses meskipun jaringan yang tidak memadai
+* **Diajukan oleh:** Benaya Imanuela
+
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
