@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Campus Daily Scheduler
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mengelola jadwal kuliah dan kampus setiap hari
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Meningkatkan produktivitas dan membantu manajemen waktu mahasiswa untuk kehidupan akademik yang lebih baik
+* **Diajukan oleh:** 500335
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
