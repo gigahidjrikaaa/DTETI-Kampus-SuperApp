@@ -29,8 +29,12 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
+<!-- START MENAMBAHKAN DI SINI --> 
+* **Nama Fitur:** Project Kecederdasan Buatan untuk mempermudah informasi perkuliahan
+* **Deskripsi Singkat:** Fitur ini memudahkan mahasiswa untuk mendapatkan sebuah informasi tentang dunia akademik dengan bantuan Kecerdasan Buatan
+* **Target Pengguna Utama:** Mahasiswa S1 
+* **Value Proposition:** Mempermudah Akses Informasi Akademik khususnya untuk Mahasiswa sarjana di DTETI
+* **Diajukan oleh:** 503741
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
