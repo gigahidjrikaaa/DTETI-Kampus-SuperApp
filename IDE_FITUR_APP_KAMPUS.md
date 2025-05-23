@@ -4,46 +4,25 @@ Selamat datang di template repository untuk Studi Kasus 0.
 
 ## Deskripsi Singkat SuperApp
 
-DTETI Kampus SuperApp adalah aplikasi fiktif yang bertujuan untuk mengintegrasikan berbagai layanan dan informasi penting bagi mahasiswa dan staf DTETI UGM dalam satu platform yang mudah diakses.
+DTETI Kampus SuperApp adalah aplikasi fiktif yang bertujuan untuk mengintegrasikan berbagai layanan dan informasi penting bagi mahasiswa dan staf DTETI UGM dalam satu platform yang mudah diakses. Fitur yang akan dihighlight pada kesempatan ini adalah _notification_.
 
 ## Format Pengajuan Ide Fitur
 
-Mohon ajukan ide fitur dengan format berikut di bawah salah satu kategori yang paling sesuai.
-Tambahkan ide Anda sebagai satu blok entri baru.
-
 Format & Contoh Pengajuan Ide Fitur:
 
-* **Nama Fitur:** Project Makan Bergizi Gratis [Nama Fitur yang diusulkan]
-* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara gratis setiap hari kerja di kampus. [Deskripsi Singkat]
-* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
-* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan mengurangi tingkat kekerasan. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
-* **Diajukan oleh:** 123456
+* **Nama Fitur:** Notification agar user dapat melakukan dan mengingat apa saja yang perlu mereka lakukan.
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan notifikasi tiap adanya deadline yang ada melalui integrasinya dengan eLok, Teams, dan platform pembelajaran lainnya yang dapat digunakan.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI 
+* **Value Proposition:** Meningkatkan kemungkinan mahasiswa lupa atau ketinggalan akan suatu pekerjaan rumah mereka,.
+* **Diajukan oleh:** 497221
 
 ## Kategori Ide Fitur
 
-Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda merasa fitur tersebut tidak cocok dengan kategori yang ada, silakan tambahkan di bagian "Ide Inovatif Lainnya". Lakukan penulisan markdown dengan baik, menghindari violation pada format markdown.
-
 ### A. Akademik & Pembelajaran 📚
-<!-- START MENAMBAHKAN DI SINI -->
+- Dapat membantu sebagai pengingat
+- User dapat secara mandiri mengingat tugas tugas yang telah diberikan.
 
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+### Mengapa Fitur ini Penting
+- Menambah _awareness_ pengguna.
+- Memastikan _goal_ pengguna tercapai.
 
-### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### D. Administrasi & Layanan Pendukung ⚙️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### E. Ide Inovatif Lainnya ✨
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
