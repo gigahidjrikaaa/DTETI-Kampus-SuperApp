@@ -35,7 +35,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Teman Ngopi DTETI
+* **Deskripsi Singkat:** Fitur ini mempertemukan mahasiswa yang ingin mencari teman baru untuk ngobrol santai sambil ngopi di sekitar kampus. Sistem akan mencocokkan pengguna berdasarkan waktu luang dan minat yang sama.
+* **Target Pengguna Utama:** Mahasiswa S1, S2, dan S3 DTETI
+* **Value Proposition:** Mendorong interaksi sosial lintas angkatan dan mengurangi rasa kesepian, serta memperkuat rasa kekeluargaan antar mahasiswa DTETI.
+* **Diajukan oleh:** Raffa Alzena Zhafirah
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
@@ -47,3 +51,4 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- START MENAMBAHKAN DI SINI -->
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
+
