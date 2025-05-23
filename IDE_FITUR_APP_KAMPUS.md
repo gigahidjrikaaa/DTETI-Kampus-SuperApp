@@ -40,7 +40,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-
+Data nilai digunakan untuk tempat terintegrasi menyimpan hasil rekapan nilai para mahasiswa
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
