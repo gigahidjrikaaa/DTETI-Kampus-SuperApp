@@ -24,9 +24,11 @@ Format & Contoh Pengajuan Ide Fitur:
 Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda merasa fitur tersebut tidak cocok dengan kategori yang ada, silakan tambahkan di bagian "Ide Inovatif Lainnya". Lakukan penulisan markdown dengan baik, menghindari violation pada format markdown.
 
 ### A. Akademik & Pembelajaran 📚
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Reminder Praktikum
+* **Deskripsi Singkat:** Fitur ini dapat membantu mahasiswa agar tidak melupakan jadwal praktikum, sehingga mahasiswa dapat datang sesuai jadwal
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI 
+* **Value Proposition:** Meningkatkan awareness mahasiswa dan mengurangi tingkat kelalaian.
+* **Diajukan oleh:** 494801
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
