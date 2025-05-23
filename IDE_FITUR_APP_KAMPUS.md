@@ -30,7 +30,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** parkingInfo 
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan informasi terkait lokasi kantong parkir untuk mahasiswa dan juga kondisinya apakah penuh atau masih tersisa x slot. 
+* **Target Pengguna Utama:** Mahasiswa UGM
+* **Value Proposition:** Mempermudah mahasiswa untuk mencari lokasi parkir yang masih available  
+* **Diajukan oleh:** 503935
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
