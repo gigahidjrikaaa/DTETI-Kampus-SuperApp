@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project reminder kelas agar tidak telat atau kelupaan kelas
+* **Deskripsi Singkat:** Fitur ini akan membantu mahasiswa untuk dapat ingat akan kelas berikutnya dan tidak terlambat
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 
+* **Value Proposition:** Meningkatkan kedisiplinan mahasiswa
+* **Diajukan oleh:** 492878
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
