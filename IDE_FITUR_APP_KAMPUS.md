@@ -13,11 +13,11 @@ Tambahkan ide Anda sebagai satu blok entri baru.
 
 Format & Contoh Pengajuan Ide Fitur:
 
-* **Nama Fitur:** Project Makan Bergizi Gratis [Nama Fitur yang diusulkan]
-* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara gratis setiap hari kerja di kampus. [Deskripsi Singkat]
-* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
-* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan mengurangi tingkat kekerasan. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
-* **Diajukan oleh:** 123456
+* **Nama Fitur:** Fitur Laporan Kerusakan Fasilitas DTETI
+* **Deskripsi Singkat:** Fitur ini memungkinkan seluruh civitas akademika DTETI untuk membuat laporan terkait kerusakan fasilitas yang terjadi di lingkungan departemen TETI.
+* **Target Pengguna Utama:** Seluruh Civitas Akademika DTETI
+* **Value Proposition:** Mempercepat alur pelaporan dan penanganan kerusakan fasilitas yang ada di DTETI
+* **Diajukan oleh:** Muhammad Luthfi Attaqi - 496427
 
 ## Kategori Ide Fitur
 
@@ -40,7 +40,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Fitur Laporan Kerusakan Fasilitas DTETI
+* **Deskripsi Singkat:** Fitur ini memungkinkan seluruh civitas akademika DTETI untuk membuat laporan terkait kerusakan fasilitas yang terjadi di lingkungan departemen TETI.
+* **Target Pengguna Utama:** Seluruh Civitas Akademika DTETI
+* **Value Proposition:** Mempercepat alur pelaporan dan penanganan kerusakan fasilitas yang ada di DTETI
+* **Diajukan oleh:** Muhammad Luthfi Attaqi - 496427
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
