@@ -25,25 +25,25 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+Wouldn't an AI that tracks your score and see where you can improve and what to do to increase your chance of getting out alive be fun?
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
-
+Any new information is also displayed here with details such as time, place, link (optional), etc. So that WhatsApp Group and student-to-student is not the only way to know.
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
-
+A place to vent or comment about new stuff should be there with mods to keep it civil, ideally
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-
+Something that eases administration, e.g. the inclusion of a feature that lets us borrow a room without having to run around TETI like it's Mecca
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
+Sebuah easter egg yang menampilkan basic hello world sebagai nod to one of the most important lesson of all, Pemrograman Dasar
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
