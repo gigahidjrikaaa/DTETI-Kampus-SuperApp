@@ -17,7 +17,7 @@ Format & Contoh Pengajuan Ide Fitur:
 * **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara gratis setiap hari kerja di kampus. [Deskripsi Singkat]
 * **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
 * **Value Proposition:** Meningkatkan kesehatan mahasiswa dan mengurangi tingkat kekerasan. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
-* **Diajukan oleh:** 123456
+* **Diajukan oleh:** Barbara Neanake Ajiesti 22/494495/TK/54238
 
 ## Kategori Ide Fitur
 
@@ -35,7 +35,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project Mengenal Fakultas Teknik UGM lebih Dekat
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk lebih mengenal lingkungan dan departemen yang ada di Fakultas Teknik UGM secara lebih dekat, dengan cepat dan pendekatan frienly
+* **Target Pengguna Utama:** Mahasiswa Baru Fakultas Teknik Universitas Gadjah Mada
+* **Value Proposition:** Mempermudah akses informasi dan memperluas pengetahuan mahasiswa baru UGM
+* **Diajukan oleh:** Barbara Neanake Ajiesti 22/494495/TK/54238
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
