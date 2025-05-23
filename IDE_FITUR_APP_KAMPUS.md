@@ -13,11 +13,11 @@ Tambahkan ide Anda sebagai satu blok entri baru.
 
 Format & Contoh Pengajuan Ide Fitur:
 
-* **Nama Fitur:** Project Makan Bergizi Gratis [Nama Fitur yang diusulkan]
-* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara gratis setiap hari kerja di kampus. [Deskripsi Singkat]
-* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
-* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan mengurangi tingkat kekerasan. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
-* **Diajukan oleh:** 123456
+* **Nama Fitur:** Presensi Berbasis Facial Recognition [Nama Fitur yang diusulkan]
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk melakukan presensi berbasis facial recognition melalui kamera handphone. [Deskripsi Singkat]
+* **Target Pengguna Utama:** Dosen & Mahasiswa [Contoh lain: Dosen, Staf, Alumni]
+* **Value Proposition:** Meminimalisir kemungkinan titip absen. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
+* **Diajukan oleh:** 493813
 
 ## Kategori Ide Fitur
 
@@ -40,7 +40,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-
+Presensi Berbasis Facial Recognition
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
