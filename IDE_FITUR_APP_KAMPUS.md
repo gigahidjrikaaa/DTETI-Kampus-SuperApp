@@ -40,6 +40,9 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
+Ide fitur yang saya kembangkan yakni purchase order jasa.
+Dimana terdapat sistem PO List untuk pemesanan jasa kontraktor dan Approval List untuk untuk persetujuan Atasan.
+Sistem ini dilengkapi dengan format otomatis sehingga tidak perlu membuat surat pernyataan mandiri dan daftar pemesanan akan dibuat otomatis.
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
