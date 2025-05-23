@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Reminder Praktikum
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan reminder yang berisi peringatan praktikum akan dimulai mulai dari H-1
+* **Target Pengguna Utama:** Mahasiswa S1 DTETI
+* **Value Proposition:** Meningkatkan time management mahasiswa DTETI
+* **Diajukan oleh:** 505433
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
