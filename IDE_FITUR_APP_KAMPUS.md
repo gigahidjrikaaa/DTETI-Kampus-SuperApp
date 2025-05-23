@@ -45,5 +45,9 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project DTETI Startup Hub
+* **Deskripsi Singkat:** Fitur ini adalah sebuah platform yang  memberi wadah bagi mahasiswa DTETI untuk mengembangkan startup berbasis teknologi untuk mampu menciptakan wadah inkubasi sehingga sebuah ide-ide inovatif mahasiswa dapat dikembangkan dan dimatangkan. Fitur ini berisi modul pembelajaran, wadah kolaborasi, dan informasi-informasi terbaru mengenai investor pitching, incubation, dan startup competition.
+* **Target Pengguna Utama:** Mahasiswa S1 DTETI
+* **Value Proposition:** Memberi wadah kolaborasi dan pengembangan startup teknologi.
+* **Diajukan oleh:** 503237
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
