@@ -26,6 +26,12 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
 
+* **Nama Fitur:** Asisten Belajar Pintar DTETI  
+* **Deskripsi Singkat:** Fitur ini menyediakan asisten virtual berbasis AI yang membantu mahasiswa memahami materi kuliah, menjawab pertanyaan akademik, serta merekomendasikan sumber belajar tambahan sesuai kebutuhan individu.  
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI  
+* **Value Proposition:** Membantu mahasiswa belajar lebih efektif, meningkatkan pemahaman materi, dan mempermudah akses ke sumber belajar yang relevan.  
+* **Diajukan oleh:** 505897
+
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
