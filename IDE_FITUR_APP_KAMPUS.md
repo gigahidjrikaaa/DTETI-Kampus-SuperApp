@@ -45,5 +45,20 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Smart Inventory Management System (SIMS)
+* **Deskripsi Singkat:** Sistem manajemen inventaris pintar yang memungkinkan mahasiswa untuk:
+  - Melacak peminjaman alat laboratorium
+  - Mengecek ketersediaan komponen praktikum
+  - Memesan komponen yang dibutuhkan
+  - Mendapatkan notifikasi pengembalian
+  - Melihat riwayat peminjaman
+  - Mengakses panduan penggunaan alat
+* **Target Pengguna Utama:** Mahasiswa S1, S2, Asisten Lab, dan Teknisi Lab
+* **Value Proposition:** 
+  - Meningkatkan efisiensi pengelolaan inventaris lab
+  - Mengurangi waktu tunggu peminjaman alat
+  - Mencegah kehilangan atau kerusakan alat
+  - Memudahkan tracking penggunaan komponen
+  - Optimalisasi penggunaan sumber daya laboratorium
+* **Diajukan oleh:** 505930
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
