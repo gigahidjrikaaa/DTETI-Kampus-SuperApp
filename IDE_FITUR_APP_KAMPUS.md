@@ -29,9 +29,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+Nama Fitur: Info DTETI
+Deskripsi Singkat: Fitur ini memungkinkan mahasiswa untuk mendapatkan info terkait skripsi, project dosen, magang, dan info lainnya
+Target Penggunaa Utama: Mahasiswa
+Value Proposition: Memudahkan Mahasiswa dan Departemen untuk menyebarkan serta mendapat informasi terbaru
+Diajukan oleh: 498269
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
