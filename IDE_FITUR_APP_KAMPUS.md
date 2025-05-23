@@ -30,7 +30,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Teti Chatbot
+* **Deskripsi Singkat:** Fitur ini adalah chatbot informatif yang menjawab semua pertanyaan mahasiswa mengenai hal administratif, akademik, operasional, dan lain-lain.
+* **Target Pengguna Utama:** Seluruh Mahasiswa DTETI
+* **Value Proposition:** Transformasikan komunikasi kampus. Chatbot DTETI menyediakan solusi terpadu untuk informasi dan dukungan instan bagi mahasiswa, dosen, dan staf, mengurangi antrean dan meningkatkan efisiensi operasional secara menyeluruh.
+* **Diajukan oleh:** 500276
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
