@@ -4,7 +4,7 @@ Selamat datang di template repository untuk Studi Kasus 0.
 
 ## Deskripsi Singkat SuperApp
 
-DTETI Kampus SuperApp adalah aplikasi fiktif yang bertujuan untuk mengintegrasikan berbagai layanan dan informasi penting bagi mahasiswa dan staf DTETI UGM dalam satu platform yang mudah diakses.
+DTETI Kampus SuperApp adalah aplikasi fiktif yang bertujuan untuk mengintegrasikan berbagai layanan dan informasi penting bagi mahasiswa dan staf DTETI UGM dalam satu platform yang mudah diakses. Fitur yang akan dihighlight pada kesempatan ini adalah _notification_.
 
 ## Format Pengajuan Ide Fitur
 
