@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** reminder-praktikum [Nama Fitur yang diusulkan]
+* **Deskripsi Singkat:** Fitur ini membuat sebuah reminder untuk megerjakan weekly progress praktikum SENPRO TIF
+* **Target Pengguna Utama:** Mahasiswa S1  DTETI yang sedang mengambil SENPRO TIF
+* **Value Proposition:** Meningkatkan kesadaran untuk tidak menunda2 pengerjaan progress SENPRO TIF
+* **Diajukan oleh:** 494980
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
