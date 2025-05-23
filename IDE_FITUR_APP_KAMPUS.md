@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Study Recap
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mengulang materi pembelajaran yang sudah dilewati dengan menggunakan materi singkat dan kuis sederhana.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Meningkatkan kedisiplinan dan kerajinan mahasiswa dalam mempelajari materi kuliah.
+* **Diajukan oleh:** 503184
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
