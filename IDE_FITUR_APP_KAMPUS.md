@@ -13,11 +13,11 @@ Tambahkan ide Anda sebagai satu blok entri baru.
 
 Format & Contoh Pengajuan Ide Fitur:
 
-* **Nama Fitur:** Project Makan Bergizi Gratis [Nama Fitur yang diusulkan]
-* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara gratis setiap hari kerja di kampus. [Deskripsi Singkat]
-* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
-* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan mengurangi tingkat kekerasan. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
-* **Diajukan oleh:** 123456
+* **Nama Fitur:** Navigasi Tempat Parkir Mahasiswa TETI
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa dapat mengetahui lahan parkir yang masih kosong untuk parkiran di atas atau bawah dan petugas yang menjaga tempat parkir DTETI mengupdate kondisi ketika parkiran sudah penuh atau belum.
+* **Target Pengguna Utama:** Mahasiswa DTETI
+* **Value Proposition:** Mempermudah mahasiswa untuk mencari tempat parkir lain, seperti teknik mesin atau teknik kimia untuk parkirnya dan mencegah mahasiswa kebingungan cari parkir padahal parkiran atas DTETI sudah penuh, jadinya turun ke parkiran bawah.
+* **Diajukan oleh:** 503393
 
 ## Kategori Ide Fitur
 
@@ -30,7 +30,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
-
+- Navigasi Tempat Parkir Mahasiswa TETI
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
