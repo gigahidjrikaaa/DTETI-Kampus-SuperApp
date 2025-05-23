@@ -36,6 +36,12 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
 
+Kampus Sosial
+Fitur ini memudahkan mahasiswa untuk mendapatkan bantuan dari mahasiswa lain yang sedang bersedia membantu
+Mahasiswa S1 UGM
+Meningkatkan kebersamaan dan rasa komunitas dalam mahasiswa
+54562
+
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
