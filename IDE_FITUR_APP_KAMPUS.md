@@ -30,7 +30,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Maps-UGM
+* **Deskripsi Singkat:** Fitur ini memungkinkan seluruh warga UGM untuk mendapatkan peta digital UGM
+* **Target Pengguna Utama:** Seluruh warga UGM
+* **Value Proposition:** Mempermudah akses informasi lokasi di UGM
+* **Diajukan oleh:** 492933
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
