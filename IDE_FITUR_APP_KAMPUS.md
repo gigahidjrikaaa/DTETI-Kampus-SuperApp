@@ -25,7 +25,8 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+Fitur untuk melihat course yang sedang diambil
+Fitur untuk mengumpulkan tugas
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
@@ -45,5 +46,5 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
+Fitur cari kerja di tempat kerja alumni UGM
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
