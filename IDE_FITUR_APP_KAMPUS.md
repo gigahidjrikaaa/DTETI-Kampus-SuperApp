@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Academic To Do List
+* **Deskripsi Singkat:** Fitur to do list yang mengintegrasikan berbagai layanan akademik kampus untuk dijadikan list yang bisa dimanage sebagai to-do list oleh mahasiswa.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** To-Do list yang digenerate otomatis berdasarkan sistem informasi universitas dan terintegrasi dengan berbagai fitur dalam sistem informasi tersebut.
+* **Diajukan oleh:** 497297
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
