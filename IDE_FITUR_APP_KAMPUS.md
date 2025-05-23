@@ -35,7 +35,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project Mengenal Fakultas Teknik UGM lebih Dekat
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk lebih mengenal lingkungan dan departemen yang ada di Fakultas Teknik UGM secara lebih dekat, dengan cepat dan pendekatan frienly
+* **Target Pengguna Utama:** Mahasiswa Baru Fakultas Teknik Universitas Gadjah Mada
+* **Value Proposition:** Mempermudah akses informasi dan memperluas pengetahuan mahasiswa baru UGM
+* **Diajukan oleh:** 22/494495/TK/54238
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
