@@ -26,6 +26,13 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
 
+Nama Fitur: Akses Datacamp Gratis
+Deskripsi SIngkat: Fitur ini memungkinkan mahasiswa untuk mengakses datacamp untuk mendapatkan edukasi informal beserta sertifikatnya
+Target Pengguna Utama: Mahasisw S1
+Value Proposition: Meningkatkan pengetahuan mahasiswa dengan hands-on learning di datacamp
+Diajukan oleh: 500359
+
+
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
