@@ -26,24 +26,10 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
 
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### D. Administrasi & Layanan Pendukung ⚙️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### E. Ide Inovatif Lainnya ✨
-<!-- START MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Rekomendasi Kursus Tambahan Otomatis
+* **Deskripsi Singkat:** Fitur ini memberikan rekomendasi kursus daring (seperti Coursera, edX, dan lainnya) yang relevan dengan mata kuliah yang sedang diambil mahasiswa, untuk memperdalam pemahaman dan keterampilan praktis.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Membantu mahasiswa memperluas pengetahuan di luar kurikulum formal dan meningkatkan kesiapan kerja dengan keterampilan tambahan.
+* **Diajukan oleh:** 504678
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
