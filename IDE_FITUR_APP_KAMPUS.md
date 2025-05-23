@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Reminder Tugas Elok
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan notifikasi jika ada tugas yg belum dikumpulkan
+* **Target Pengguna Utama:** Mahasiswa UGM pengguna elok
+* **Value Proposition:** Mengurangi jumlah tugas yang telat dikumpulkan
+* **Diajukan oleh:** 497191
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
