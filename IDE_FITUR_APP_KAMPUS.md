@@ -34,9 +34,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** UGM Chat
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan Melakukan chat dengan mahasiswa, dosen maupun alumni UGM yang sudah lulus
+* **Target Pengguna Utama:** Mahasiswa S1, S2, Alumni dan Dosen
+* **Value Proposition:** Mempermudah proses berpesan antara mahasiswa, dosen dan alumni
+* **Diajukan oleh:** 498213
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
