@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Smart Syllabus Tracker
+* **Deskripsi Singkat:** Fitur yang memungkinkan mahasiswa untuk secara otomatis mengimpor dan melacak silabus tiap mata kuliah yang mencakup termasuk tanggal deadline tugas, jadwal ujian, dan materi pertemuan yang terintegrasi langsung ke kalender pribadi, misalnya Google Calendar. Menyediakan notifikasi pengingat (push/email) dan ringkasan mingguan tentang progres pembelajaran.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Membantu mahasiswa mengatur waktu belajar lebih efektif, mengurangi risiko terlewat deadline atau tertinggal materi, dan meningkatkan konsistensi serta kinerja akademik.
+* **Diajukan oleh:** 493242
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
