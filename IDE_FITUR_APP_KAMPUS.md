@@ -34,9 +34,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Teman Ngoding DTETI
+* **Deskripsi Singkat:** Fitur ini membantu mahasiswa menemukan teman belajar atau kolaborasi proyek secara instan berdasarkan minat, mata kuliah, atau skill coding tertentu. Mahasiswa bisa membuat room, join room, atau sekadar chat untuk tanya jawab ringan.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Meningkatkan kolaborasi antar mahasiswa, mempercepat proses belajar melalui peer learning, serta mengurangi rasa kesepian saat mengerjakan tugas atau belajar mandiri.
+* **Diajukan oleh:** 492990
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
