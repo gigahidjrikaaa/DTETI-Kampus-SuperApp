@@ -31,7 +31,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
 
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+<!-- BERHENTI MENAMBAHKAN DI SIN
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
