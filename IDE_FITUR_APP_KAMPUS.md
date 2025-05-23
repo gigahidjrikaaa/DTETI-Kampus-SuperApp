@@ -47,3 +47,8 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- START MENAMBAHKAN DI SINI -->
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
+
+### F. Feature✨
+<!-- START MENAMBAHKAN DI SINI -->
+
+<!-- BERHENTI MENAMBAHKAN DI SINI -->
