@@ -26,6 +26,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
 
+* **Nama Fitur:** Learning Community
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk bergabung dan berkolaborasi ke dalam suatu komunitas online yang bertujuan untuk sarana belajar bersama untuk suatu topik akademik
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Meningkatkan kolaborasi antar mahasiswa
+* **Diajukan oleh:** 493128
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
