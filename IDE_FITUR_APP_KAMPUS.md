@@ -24,26 +24,8 @@ Format & Contoh Pengajuan Ide Fitur:
 Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda merasa fitur tersebut tidak cocok dengan kategori yang ada, silakan tambahkan di bagian "Ide Inovatif Lainnya". Lakukan penulisan markdown dengan baik, menghindari violation pada format markdown.
 
 ### A. Akademik & Pembelajaran 📚
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### D. Administrasi & Layanan Pendukung ⚙️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### E. Ide Inovatif Lainnya ✨
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Reminer Praktikum untuk Mahasiswa DTETI FT UGM
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan notifikasi pengingat jadwal praktikum yang terupdate, serta materi yang disampaikan melalui SuperApp.
+* **Target Pengguna Utama:** Mahasiswa S1 DTETI, Asisten Praktikum, Asisten Lab, dan Dosen Pembimbing.
+* **Value Proposition:** Mengingatkan mahasiswa untuk datang praktikum tepat waktu dan menginformasikan materi yang akan digunakan untuk praktikum.
+* **Diajukan oleh:** 499337
