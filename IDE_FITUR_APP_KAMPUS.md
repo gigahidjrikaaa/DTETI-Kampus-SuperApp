@@ -25,25 +25,10 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### D. Administrasi & Layanan Pendukung ⚙️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### E. Ide Inovatif Lainnya ✨
-<!-- START MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Info Magang
+* **Deskripsi Singkat:** Fitur ini menyediakan papan pengumuman magang atau lowongan kerja dari mitra DTETI, alumni, dan dosen. Mahasiswa dapat mencari informasi berdasarkan kata kunci, kategori (internship/fulltime), dan tanggal posting.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI 
+* **Value Proposition:** Membantu mahasiswa menemukan peluang kerja/magang dengan cepat, memperkuat jejaring antara alumni dan mahasiswa aktif, serta mendukung persiapan karier sejak dini.
+* **Diajukan oleh:** Tsabitah Inayah-498733
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
