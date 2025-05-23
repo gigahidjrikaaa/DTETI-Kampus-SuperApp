@@ -25,25 +25,34 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
+1) Study Planner Otomatis
+Fitur untuk menyusun jadwal belajar otomatis dengan mempertimbangkan jadwal kuliah, tugas, dan waktu luang pengguna.
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
+1) Live Update Ketersediaan Ruang Kelas & Lab
+Sistem real-time yang menunjukkan ruang kelas/lab mana yang sedang kosong dan bisa digunakan untuk belajar kelompok.
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
+1) Match Komunitas Otomatis
+Rekomendasi komunitas mahasiswa berdasarkan minat pribadi dan riwayat aktivitas kampus.
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
+1) Tracking Status Layanan Administratif
+Sistem untuk memantau progres pengajuan surat, KRS, KHS, cuti, dan lainnya secara real-time.
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
+1) Integrasi Layanan Kesehatan Mental
+Fitur konsultasi dengan psikolog kampus dan pengingat aktivitas self-care harian dengan pendekatan berbasis habit tracking.
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
