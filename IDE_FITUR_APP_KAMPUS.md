@@ -25,6 +25,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
+reminder-praktikum
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
