@@ -25,22 +25,27 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
+1. Informasi Terkait Jadwal Praktikum/Kuliah
+2. Graph penampilan Kurikulum
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
 <!-- START MENAMBAHKAN DI SINI -->
+1. Peta lokasi sekitar kampus
+2. Nearest fasilitas kampus
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
+1. Sosial Media Untuk Mahasiswa
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-
+1. Chatbot Admin
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
