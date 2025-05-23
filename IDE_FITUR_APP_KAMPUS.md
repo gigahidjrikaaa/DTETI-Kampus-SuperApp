@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project Informasi Mengenai Jadwal dan Kurikulum pada praktikum.
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiwa memahami konteks pengetahuan sebelum akhirnya dilakukan praktikum atau responsi.
+* **Target Pengguna Utama:** Mahasiswa S1, Asisten Praktikum, dan Laboran.
+* **Value Proposition:** Meningkatkan penguatan teoritis mahasiswa guna menunjang miss undertanding saat praktikum.
+* **Diajukan oleh:** 493982
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
