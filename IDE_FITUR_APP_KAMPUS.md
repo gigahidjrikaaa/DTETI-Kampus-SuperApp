@@ -40,7 +40,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project Makan Purchase Order
+* **Deskripsi Singkat:** Fitur ini memungkinkan untuk purchase order kontrak jasa
+* **Target Pengguna Utama:** karyawan pabrik
+* **Value Proposition:** meningkatkan efisiensi
+* **Diajukan oleh:** Muhammad Fajrulfalaq I.S -4941474
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
