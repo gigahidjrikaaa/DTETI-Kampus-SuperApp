@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Reminder
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan peringatan akan tugas-tugas, serta jadwal keseharian
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 UGM
+* **Value Proposition:** Meningkatkan kesadaran mahasiswa akan tugas-tugas dan jadwalnya
+* **Diajukan oleh:** 503523
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
