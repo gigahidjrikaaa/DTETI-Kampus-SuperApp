@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Reminder Deadline Tugas Kuliah
+* **Deskripsi Singkat:** Fitur ini akan memberikan notifikasi dan reminder apabila waktu waktu tenggat untuk sebuah tugas kuliah sudah dekat. Reminder dapat diatur seberapa lama jaraknya dari waktu tenggat.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Meringankan beban pikiran untuk mahasiswa, terutama pada minggu-minggu akhir semester, dimana banyak tenggat waktu tugas dan proyek menumpuk.
+* **Diajukan oleh:** 497787
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
