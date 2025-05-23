@@ -40,7 +40,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-Fitur Laporan Kerusakan Fasilitas DTETI
+* **Nama Fitur:** Fitur Laporan Kerusakan Fasilitas DTETI
+* **Deskripsi Singkat:** Fitur ini memungkinkan seluruh civitas akademika DTETI untuk membuat laporan terkait kerusakan fasilitas yang terjadi di lingkungan departemen TETI.
+* **Target Pengguna Utama:** Seluruh Civitas Akademika DTETI
+* **Value Proposition:** Mempercepat alur pelaporan dan penanganan kerusakan fasilitas yang ada di DTETI
+* **Diajukan oleh:** Muhammad Luthfi Attaqi - 496427
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
