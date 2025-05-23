@@ -26,6 +26,13 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
 
+* **Nama Fitur:** Pengajuan dosen skripsi
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk melihat kepakaran dosen pada suatu bidang dan melihat mahasiswa skripsi yang diampu apakah penuh atau tidak, apabila memungkinkan maka mahasiswa bisa mengajukan untuk menjadikan dosen tersebut pembimbing skripsinya.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI dan Dosen DTETI
+* **Value Proposition:** Efektifitas dan efisiensi dalam pengelolaan mahasiswa dan dosen terkait skripsi
+* **Diajukan oleh:** 505520 
+    
+
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
