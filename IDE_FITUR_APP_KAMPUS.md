@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Presensi Mahasiswa
+* **Deskripsi Singkat:** Fitur untuk mengintegrasikan presensi mahasiswa, baik secara presensi qr di kelas, ataupun yang izin tidak hadir karena suatu alasan
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI 
+* **Value Proposition:** Mempermudah mahasiswa dalam urusan presensi
+* **Diajukan oleh:** 493623
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
