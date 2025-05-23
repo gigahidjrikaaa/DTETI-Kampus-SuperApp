@@ -45,5 +45,9 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
+ **Nama Fitur:** Kelas Belajar Membaca Al-Quran [Nama Fitur yang diusulkan]
+ **Deskripsi Singkat:** Kelas untuk meningkatkan mahasiswa muslim dalam belajar dan membaca alquran. Tidak hanya itu jika mahasiswa tersebut belum selesai dalam belajar iqra' maka dengan mengikuti kelas ini ia bisa menamatkan iqra' dan membaca al-quran dengan baik. Harapannya dengan mengikuti kelas ini tidak hanya memperlancar dalam membaca al-quran tapi juga meningkatkan keimanan kita dengan Allah SWT.
+ **Target Pengguna Utama:** Seluruh Mahasiswa Muslim DTETI 
+ **Value Proposition:** Bagi yang belum lancar alquran atau bahasa lainnya belum tamat iqra bisa ia selesaikan dengan kelas ini, Menambah ilmu tentang al-quran, Memperlancar baca al-quran, dan memperkuat keimanan kita kepada Allah SWT.
+ **Diajukan oleh:** 505243
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
