@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-Halo ini ide fitur saya!
+* **Nama Fitur:** Reminder Praktikum
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan reminder praktikum. [Deskripsi Singkat]
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
+* **Value Proposition:** Meningkatkan produktivitas mahasiswa. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
+* **Diajukan oleh:** 504570
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
