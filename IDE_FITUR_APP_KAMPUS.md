@@ -25,6 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Reminder Tugas
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan notifikasi pengingat tentang tugas
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Meningkatkan keawasan mahasiswa mengenai tugas-tugas kuliah
+* **Diajukan oleh:** 494733
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
