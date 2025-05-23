@@ -32,7 +32,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 * **Nama Fitur:** Berita Acara Seminar KP
 * **Deskripsi Singkat:** Fitur yang akan memberikan berita seluruh pelaksanaan seminar KP yang diadakan oleh mahasiswa DTETI FT UGM tiap harinya
 * **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI, Dosen
-* **Value Proposition:** Untuk mahasiswa penyelenggara akan mendapatkan partisipan dari mahasiswa DTETI yang menghadiri seminarnya. Dan untuk mahasiswa sebagai audiens akan mendapatkan insight mengenai dunia kerja praktik
+* **Value Proposition:** Untuk mahasiswa penyelenggara akan mendapatkan partisipan dari mahasiswa DTETI yang menghadiri seminarnya. Dan untuk mahasiswa sebagai audiens akan mendapatkan insight mengenai dunia kerja praktik dan pengalaman dari peserta KP tersebut
 * **Diajukan oleh:** 492880
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
