@@ -25,6 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Project Barter Jadwal Mata Kuliah Saat KRS
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk bertukar jadwal mata kuliah yang diinginkan saat KRS secara otomatis melalui sistem. Pertukaran jadwal secara manual rawan untuk terjadi kegagalan karena diambil oleh orang lain tanpa persetujuan.
+* **Target Pengguna Utama:** Mahasiswa S1 DTETI
+* **Value Proposition:** Meningkatkan kesejahteraan dan kenyamanan mahasiswa saat masa KRS
+* **Diajukan oleh:** 493640
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
