@@ -39,9 +39,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+Fitur Klaim Presensi.
+Fitur ini memungkinkan mahasiswa dapat langsung melakukan klaim presensi secara mandiri ketika terjadi kegagalan presensi menggunakan QR di kelas dikarenakan adanya galat, koneksi internet buruk dll.
+Target pengguna utama dari fitur ini adalah mahasiswa S1 DTETI
+Hal ini diharapkan dapat mempercepat proses pelayanan terkait presensi bagi mahasiswa dan tenanga akademik.
+Diajukan oleh : 493935
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
