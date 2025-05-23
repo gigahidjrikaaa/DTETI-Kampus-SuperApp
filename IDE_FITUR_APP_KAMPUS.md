@@ -34,9 +34,8 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
 
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+Fitur chat memungkinkan untuk mahasiswa bisa melakukan komunikasi melalui platform ini. Selain itu, bisa juga membuat forum diskusi yang bisa diisi oleh mahasiswa
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
