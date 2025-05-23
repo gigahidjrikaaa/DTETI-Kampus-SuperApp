@@ -38,7 +38,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 Nama Fitur: KomunDTETI
 Deskripsi Singkat: Fitur ini memungkinkan mahasiswa DTETI bersosialisasi, berbagi atau bahkan mencari teman
 Target Pengguna Utama: Mahasiswa Aktif S1, S2 dan S3
-Value Proposition: Memudahkan mahasiswa memiliki kehidupan sosial yang aman, memudahkan mahasiswa mencari teman lomba, dan memudahkan mahasiswa dalam emnyebarkan informasi dengan sangat cepat. Dikarenakan fitur ini hanya dapat diakses oleh mahasiswa aktif DTETI, maka komunitas ini akan sangat ekslusif, aman dan terhindar dari penyalahgunaan
+Value Proposition: Memudahkan mahasiswa memiliki kehidupan sosial yang aman, memudahkan mahasiswa mencari teman lomba, dan memudahkan mahasiswa dalam emnyebarkan informasi dengan sangat cepat. Dikarenakan fitur ini hanya dapat diakses oleh mahasiswa aktif DTETI, maka komunitas ini akan sangat ekslusif, aman dan terhindar dari penyalahgunaan 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
