@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Documinda
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa membaca dokumen yang diupload sebagai referensi
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI Dosen, Staf, Alumni
+* **Value Proposition:** Meningkatkan efisiensi waktu mahasiswa dan mendukung pembelajaran
+* **Diajukan oleh:** 500341
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
