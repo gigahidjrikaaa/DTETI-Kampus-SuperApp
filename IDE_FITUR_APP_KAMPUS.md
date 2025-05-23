@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Digilib
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mengakses e-book dan sumber pembelajaran digital lainnya
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Mempermudah akses materi pembelajaran mahasiswa
+* **Diajukan oleh:** 504792
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
