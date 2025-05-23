@@ -35,6 +35,7 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
+Reminder Seminar KP (Sehingga KP selalu ramai)
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
