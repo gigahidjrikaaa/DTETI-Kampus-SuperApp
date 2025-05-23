@@ -40,7 +40,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Project Peningkatkan Kualitas Birokrasi Kampus lewat Umpan Balik Mahasiswa [Survei untuk Mahasiswa]
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk memberikan umpan balik ke kampus atau departemen untuk meningkatkan kualitas birokrasi, akademik, keamanan, lingkungan, dan aspek-aspek lainnya dari kampus. Selain itu, mahasiswa juga dapat membuat laporan mengenai isu-isu tertentu agar departemen atau kampus dapat memberikan upaya intervensi yang terorganisir. [Deskripsi Singkat]
+* **Target Pengguna Utama:** Seluruh mahasiswa DTETI. [Contoh lain: Dosen, Staf, Alumni]
+* **Value Proposition:** Meningkatkan kesejahteraan mahasiswa dan meningkatkan kualitas departemen dari berbagai aspek. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
+* **Diajukan oleh:** 503772
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
