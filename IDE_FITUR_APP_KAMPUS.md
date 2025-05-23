@@ -24,6 +24,7 @@ Format & Contoh Pengajuan Ide Fitur:
 Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda merasa fitur tersebut tidak cocok dengan kategori yang ada, silakan tambahkan di bagian "Ide Inovatif Lainnya". Lakukan penulisan markdown dengan baik, menghindari violation pada format markdown.
 
 ### A. Akademik & Pembelajaran 📚
+Belajar Mengkoding Mandiri
 <!-- START MENAMBAHKAN DI SINI -->
 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
