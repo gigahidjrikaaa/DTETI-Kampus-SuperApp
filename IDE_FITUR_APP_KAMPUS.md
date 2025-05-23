@@ -29,9 +29,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Techwaze
+* **Deskripsi Singkat:** Fitur ini merupakan cara bagi pengguna aplikasi, baiik merupakan bagian dari DTETI (tendik, dosen, mahasiswa) ataupun tamu, untuk melihat peta dan melakukan navigasi ke dalam lingkungan Teknik. Fitur ini bertujuan untuk memudahkan akses dan navigasi tamu dan mahasiswa baru untuk mencapai Gedung DTETI, mengingat layout Teknik yang luas dan terkadang memusingkan.
+* **Target Pengguna Utama:** Tamu luar DTETI dan mahasiswa baru
+* **Value Proposition:** Membantu navigasi dalam lingkunagn teknik
+* **Diajukan oleh:** 492877
 
 ### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
 <!-- START MENAMBAHKAN DI SINI -->
