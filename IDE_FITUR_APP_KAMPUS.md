@@ -25,7 +25,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Reminder Praktikum
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan notifikasi yang mengingatkan jadwal praktikum sehari sebelum pelaksanaan
+* **Target Pengguna Utama:** Mahasiswa S1 DTETI
+* **Value Proposition:** Mempermudah akses informasi dan meningkatkan produktivitas 
+* **Diajukan oleh:** 493200
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
